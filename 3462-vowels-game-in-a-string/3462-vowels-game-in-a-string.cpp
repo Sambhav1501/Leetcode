@@ -10,7 +10,7 @@ public:
             {
                 return true;
             }
-            i++;
+            ++i;
         }
         return false;
     }
