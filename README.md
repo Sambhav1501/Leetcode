@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sambhav1501/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sambhav1501/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
