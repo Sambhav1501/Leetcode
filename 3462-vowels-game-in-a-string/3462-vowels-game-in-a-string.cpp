@@ -3,7 +3,6 @@ public:
     bool doesAliceWin(string s) 
     {
         int size=s.size();
-        int lastindex=0;
         int vowelcount=0;
         int i=0;
         while(i<size)
@@ -11,7 +10,6 @@ public:
             if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u')
             {
                 vowelcount++;
-                lastindex=i;
             }
             i++;
         }
