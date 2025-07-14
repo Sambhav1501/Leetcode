@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sambhav1501/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sambhav1501/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3859-maximum-product-of-two-digits](https://github.com/Sambhav1501/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3859-maximum-product-of-two-digits](https://github.com/Sambhav1501/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
