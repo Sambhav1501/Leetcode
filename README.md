@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3396-valid-word](https://github.com/Sambhav1501/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
