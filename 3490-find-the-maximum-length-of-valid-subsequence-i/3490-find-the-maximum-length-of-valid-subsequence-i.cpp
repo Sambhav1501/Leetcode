@@ -4,7 +4,6 @@ public:
     {
         int even=0,odd=0;
         int size=nums.size();
-        unordered_map<int,pair<int,int>> map;
         for(int i=0;i<size;i++)
         {
             if(nums[i]%2==0)
@@ -15,7 +14,6 @@ public:
             {
                 odd++;
             }
-            map[i]={even,odd};
         }
         int res1=1;
         int res2=0;
