@@ -30,6 +30,6 @@ public:
                 res2++;
             }
         }
-        return max(even,max(odd,max(res1,max(res2,res1+res2))));
+        return max(even,max(odd,res1+res2));
     }
 };
