@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sambhav1501/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Sambhav1501/Leetcode/tree/master/0264-ugly-number-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sambhav1501/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sambhav1501/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Number Theory
 |  |
 | ------- |
