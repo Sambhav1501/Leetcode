@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sambhav1501/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Sambhav1501/Leetcode/tree/master/0264-ugly-number-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sambhav1501/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Sambhav1501/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Sambhav1501/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sambhav1501/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Sambhav1501/Leetcode/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Sambhav1501/Leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 ## String
